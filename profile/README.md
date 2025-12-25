@@ -10,5 +10,7 @@
 
 📧 欢迎感兴趣的朋友关注我们，也欢迎有志青年加入我们！
 
+☎️ 微信联系方式如下:
+
 <img src="code.jpg" width="200" /> 
 <!-- <img src="code.jpg" style="width: 5%;" /> -->
