@@ -1,12 +1,12 @@
-## 罗小罗BioAI
+## LXLTX BioAI (罗小罗BioAI)
 
-<!--
 
-**Here are some ideas to get you started:**
+🧑‍🏫 本平台隶属于罗小罗团队，本组成员致力于分享BioAI领域的最新进展与行业资讯,包括:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. 虚拟细胞AIVC
+2. 药物虚拟细胞，
+3. AI+RNA设计
+4. AI+基因组大模型
+
+📧 欢迎感兴趣的朋友关注我们，也欢迎有志青年加入我们！
+
