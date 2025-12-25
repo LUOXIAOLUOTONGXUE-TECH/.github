@@ -10,4 +10,5 @@
 
 📧 欢迎感兴趣的朋友关注我们，也欢迎有志青年加入我们！
 
-<img src="code.jpg" style="zoom:5%;" />
+<img src="code.jpg" width="200" /> 
+<img src="code.jpg" style="width: 5%;" />
